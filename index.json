@@ -1,0 +1,11 @@
+{
+  "org": "mongodb",
+  "repo": "motor",
+  "versions": [
+    {
+      "commit": "60f645614eb35d99e6934ce2a8fe7356a8c4deac",
+      "tag": "",
+      "parsed_at": "2026-10-17T21:52:16.301384+00:00"
+    }
+  ]
+}
